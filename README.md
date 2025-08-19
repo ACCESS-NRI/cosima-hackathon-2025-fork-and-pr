@@ -43,7 +43,7 @@ Hit Create Fork - you can change the name and description if you like - before r
 
 # Creating a new branch
 
-We'll be doing the next couple of bits from the command line - but don't worry if you've never used it before! If you're using a linux machine or a Mac, you should have a terminal installed already. If you're using a Windows machine, the easiest way to do this is to install WSL.
+We'll be doing the next couple of bits from the command line - but don't worry if you've never used it before! If you're using a linux machine or a Mac, you should have a terminal installed already. If you're using a Windows machine, the easiest way to do this is to [install WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Then, you need to clone your repo: to do this, it's just `git clone`, followed by the url of your fork. You'll need to change this URL to your own fork!
 
