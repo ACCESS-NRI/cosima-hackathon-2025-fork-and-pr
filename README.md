@@ -2,6 +2,7 @@
 
 #### List of Contributors
 - Boaty McBoatface, 18th August 2025
+- Charles Turner, 18th August 2025
 
 ### This repository is an introduction to forking a repository in order to make a pull request
 
