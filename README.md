@@ -287,3 +287,5 @@ Once you've done this, your Pull Request should be visible [here](https://github
 
 <img width="1391" height="461" alt="Screenshot 2025-08-18 at 4 10 51 pm" src="https://github.com/user-attachments/assets/b20eea8f-47c6-457c-a5d8-5f5db0347b13" />
 
+___
+# Pushing changes to Jupyter notebooks
