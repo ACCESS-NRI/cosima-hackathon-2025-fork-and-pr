@@ -20,7 +20,7 @@ ___
 
 ### What is forking?
 
-Forking is a way of telling GitHub "create a carbon copy of this repository that I own". People might do this for lots of reasons - one of them being to take someone elses work, and do something new and different with it. Much like a fork in the road, this could then take the code down a new path - which is why we call it forking. 
+Forking is a way of telling GitHub "create a carbon copy of this repository, so that I own the copy". People might do this for lots of reasons - one of them being to take someone elses work, and do something new and different with it. Much like a fork in the road, this could then take the code down a new path - which is why we call it forking. 
 
 When you fork a repository, you can also use a Pull Request to contribute it back to the original repository - which is what we're going to do today.
 
@@ -289,3 +289,23 @@ Once you've done this, your Pull Request should be visible [here](https://github
 
 ___
 # Pushing changes to Jupyter notebooks
+
+COSIMA Recipes predominately contains Jupyter Notebooks. These are great for interacting with scripts, looking at plots, etc., but contain a lot more than just code in them. 
+
+This demo is just to show you that when you edit a Jupyter notebook, the changes can be a little more confusing.
+
+Now, take a look at [demo_notebook.ipynb](demo_notebook.ipynb).
+
+We're going to:
+1. Create a new branch.
+2. Make the changes suggested in the notebook.
+3. Run it.
+4. Add, commit and push our changes.
+5. Create a pull request.
+
+How does this look different to just adding your name to this document? What's the same?
+
+
+### ReviewNB
+
+Luckily, cosima-recipes uses a tool called [ReviewNB](https://www.reviewnb.com/) so you can easily look at the changes - but it's worth being aware that more can change than just the code!
