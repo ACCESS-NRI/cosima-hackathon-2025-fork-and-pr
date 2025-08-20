@@ -19,3 +19,9 @@ How does this look different to just adding your name to this document? What's t
 ### ReviewNB
 
 Luckily, cosima-recipes uses a tool called [ReviewNB](https://www.reviewnb.com/) so you can easily look at the changes - but it's worth being aware that more can change than just the code!
+
+
+___
+
+That's it, you've completed the demo! 
+[Take me back to the README](README.md).
