@@ -20,22 +20,22 @@ ___
 
 # Forking the repository
 
-[Forking the repository](FORKING.md).
+1: [Forking the repository](FORKING.md).
 
 
 # Creating a new branch
 
-[Creating a new branch](CREATE-BRANCH.md).
+2: [Creating a new branch](CREATE-BRANCH.md).
 
 # Pushing changes
 
-[Pushing changes](PUSH-CHANGES.md).
+3: [Pushing changes](PUSH-CHANGES.md).
 
 # Creating a Pull Request
 
-[Creating a Pull Request](CREATE-PR.md).
+4: [Creating a Pull Request](CREATE-PR.md).
 
 ___
 # Pushing changes to Jupyter notebooks
 
-[Pushing changes to Jupyter notebooks](CHANGE-NB.md).
+Bonus: [Pushing changes to Jupyter notebooks](CHANGE-NB.md).
