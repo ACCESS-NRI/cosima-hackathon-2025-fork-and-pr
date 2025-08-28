@@ -1,6 +1,6 @@
 # Pushing changes
 
-Now let's add our name to the list of contributors. I've done this with `vim`: `$ vim README.md`, but use whatever editor you're comfortable with:
+Now let's add our name to the list of contributors. I've done this with `vim`: `$ vim README.md`, but use whatever editor you're comfortable with (if you haven't used `vim` before, `nano` is easier: `$ nano README.md`):
 
 <img width="1717" height="933" alt="Screenshot 2025-08-18 at 3 42 52 pm" src="https://github.com/user-attachments/assets/a2be3cc3-5e27-405b-8dcd-25e59bad06e6" />
 
