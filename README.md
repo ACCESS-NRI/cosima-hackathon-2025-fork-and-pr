@@ -5,7 +5,7 @@
 
 ### This repository is an introduction to forking a repository in order to make a pull request
 
-For GitHub repositories you didn't create yourself, the default way to contribute is:
+For GitHub repositories you didn't create yourself[^1], the default way to contribute is:
 1. *Fork* the repository.
 2. *Create a new branch*.
 3. *Push some changes* to that branch.
@@ -16,6 +16,8 @@ In this repository, we're going to walk through a pared down example of what tha
 For repositories you do have write access to (if you don't know what that means don't worry!), the process is very similar, except you won't need to create a fork.
 
 For each section, just follow the link, and the instructions will walk you through each step. Each section has a link to the next section at the bottom, so you can easily navigate through the process.
+
+[^1]: Technically, repositories for which you don't have write access, although in practice these generally overlap.
 ___
 
 # Forking the repository
