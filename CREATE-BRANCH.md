@@ -1,6 +1,8 @@
 # Creating a new branch
 
-We'll be doing the next couple of bits from the command line - but don't worry if you've never used it before! If you're using a linux machine or a Mac, you should have a terminal installed already. If you're using a Windows machine, the easiest way to do this is to [install WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
+We'll be doing the next couple of bits from the command line - but don't worry if you've never used it before! If you're using a linux machine or a Mac, you should have a terminal installed already.
+If you're using a Windows machine, this can be a bit more complicated. If you've already [installed WSL](https://learn.microsoft.com/en-us/windows/wsl/install), then using that should be the most straightforward way to do it.
+If not, the easiest thing to do will be to use the ARE terminal: [click here](https://docs.access-hive.org.au/getting_started/are/) for instructions.
 
 Then, you need to clone your repo: to do this, it's just `git clone`, followed by the url of your fork. You'll need to change this URL to your own fork!
 
