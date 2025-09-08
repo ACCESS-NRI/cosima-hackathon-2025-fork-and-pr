@@ -2,10 +2,12 @@
 
 #### List of Contributors
 - Boaty McBoatface, 18th August 2025
+- Annika Oetjens, 08th September 2025
 - Aditya Narayanan, 8th September 2025
 - Polina Sholeninova, 8th September 2025
 - Thomas Moore, 8th September 2025
 - Katja Curtin, 8th September 2025
+
 
 ### This repository is an introduction to forking a repository in order to make a pull request
 
