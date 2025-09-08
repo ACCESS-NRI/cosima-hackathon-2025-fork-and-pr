@@ -2,6 +2,7 @@
 
 #### List of Contributors
 - Boaty McBoatface, 18th August 2025
+- Sam Watson, 8th Sept 2025
 - Polina Sholeninova, 8th September 2025
 - Thomas Moore, 8th September 2025
 - Katja Curtin, 8th September 2025
